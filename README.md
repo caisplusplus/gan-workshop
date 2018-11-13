@@ -3,7 +3,7 @@
 
 - [Lesson 9 (Next steps)](http://caisplusplus.usc.edu/blog/curriculum/lesson9)
 
-Workshop date: October 30, 2017
+Workshop date: November 12, 2018
 
 ### Workshop Outline:
 1. Go over GAN theory
@@ -19,4 +19,4 @@ Workshop date: October 30, 2017
 ### After Workshop:
 1. Add your completed code to a repository on your own Github account
 2. Create a new "issue" in the repository
-3. Tag either @lucashu1, @jdormuth, or @ASzot so that we can check you off
+3. Tag either @gstenger98, @bhahn16, or @shomikj so that we can check you off
